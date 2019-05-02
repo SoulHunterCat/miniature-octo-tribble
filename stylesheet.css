@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#mapid {
+    height: 600px;
+}
+
+img {
+    width: 100%;
+}
+
+body {
+    background: url(Planks3232.png) repeat;
+}
+
+hr {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.MMap {
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.MapName {
+    padding-top: 15px;
+    text-align: center;
+    font-size: 40pt;
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(255, 255, 255);
+}
+
+.MadeBy {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 14pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(37, 37, 37);
+}
+
+#area {
+    border: red 1px solid;
+    background: #fc3;
+}
